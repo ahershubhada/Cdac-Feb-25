@@ -1,0 +1,11 @@
+Assignment –2
+ Introducing Relational Databases.
+ 1) Which field of the Customers table is the primary key? ...Cnum
+2) What is the 4th column of the Customers table? ............Rating
+3) What is another word for row?  For column?.................for row - entity,tuple,field &
+   for column-field ,column,attribute
+4) Why isn’t it possible to see the first five rows of a table?...
+  YES ITS POSSIBLE -
+  SELECT * FROM table_name ORDER BY some_column LIMIT 5;
+  SELECT * FROM table_name ORDER BY id ASC LIMIT 5;
+
